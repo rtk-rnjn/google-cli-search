@@ -1,0 +1,10 @@
+{0}            {1}          {2}          {3}          {4}  ,, {5}
+{0}  .g8"""bgd {1}          {2}          {3}          {4}`7MM {5}
+{0}.dP'     `M {1}          {2}          {3}          {4}  MM {5}
+{0}dm'       ` {1}  ,pW"Wq. {2}  ,pW"Wq. {3}  .P"Ybmmm{4}  MM {5} .gP"Ya 
+{0}MM          {1} 6W'   `Wb{2} 6W'   `WB{3} :MI  I8  {4}  MM {5},M'   Yb 
+{0}MM.    `7MMF{1}'8M     MB{2} 8M     M8{3}  WmmmP"  {4}  MM {5}8M""""""  
+{0}`Mb      MM {1} YA.   ,A9{2} YA.   ,A9{3}  8M      {4}  MM {5}YM.    , 
+{0}  `"bmmmdPY {1}  `Ybmd9' {2}  `Ybmd9' {3} YMMMMMb  {4}.JMML.{5}`Mbmmd' 
+{0}            {1}          {2}          {3} 6'     dP{4}
+{0}            {1}          {2}          {3}  Ybmmmd'{4}
