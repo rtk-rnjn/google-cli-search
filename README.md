@@ -1,6 +1,6 @@
 # google-cli-search
 
-A simple command line tool to search google from the terminal. Made with Python and the Google Search API. Please don't just me, I just made it for fun. Also, I didn't tested on windows, so if you are using windows and found a bug, please open an issue.
+A simple command line tool to search google from the terminal. Made with Python and the Google Search API. Please don't judge me, I just made it for fun. Also, I didn't tested on windows, so if you are using windows and found a bug, please open an issue.
 
 ## Installation and Usage
 
